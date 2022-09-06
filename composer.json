@@ -3,8 +3,5 @@
     "description": "Hacking Prank for friends",
     "keywords": [],
     "license": "MIT",
-    "type": "project",
-    "require": {
-        "php": ">=8.0"
-    }
+    "type": "project"
 }
