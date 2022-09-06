@@ -1,0 +1,26 @@
+body {
+	font-weight: 400 !important;
+	padding: 10px;
+	font-family: Consolas,monospace !important;
+	background-color: black !important;
+	color: green !important;
+	background-image: url(https://img.freepik.com/premium-vector/matrix-hacker-card-background-web-design-style-your-business-vector-illustration_287964-979.jpg?w=2000);
+}
+
+p {
+	color: green !important;
+}
+
+@keyframes completion {
+	0% { width: 0%; background-color: red; }
+	25% { width: 40%; background-color: #dd0000; }
+	50% { width: 60%; background-color: #aa0000; }
+	75% { width: 75%; }
+	100% { width: 100%; background-color: green; }
+}
+
+.progress-bar {
+	background-color: green !important;
+	animation-name: completion;
+	animation-duration: 10s;
+}
