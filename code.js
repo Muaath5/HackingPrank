@@ -47,8 +47,10 @@ function d5() {
 
 function showMessage()
 {
-	
-	alert(`البيانات:
-الاسم: أحمد خالد الغامدي
-رقم الجوال: 0500000000`);
+	const inf = document.querySelector("#info");
+	const hackInfo = `الاسم : احمد خالد صمهود الغامدي 
+رقم الجوال: +966 550963225
+جوال ايفون X`;
+	inf.innerHTML = hackInfo;
+	alert(hackInfo);
 }
