@@ -18,27 +18,27 @@ cc.innerHTML = "wX3&w4%S$^5X5SM";
 ap.innerHTML = "S&@7&П#6BxcuB9K";
 ps.innerHTML = "2$FiИa^Vcq3tu20";
 
-setTimeout(showMessage, 11*S);
-setTimeout(d1, 2*S);
+setTimeout(showMessage, 3*S);
+setTimeout(d1, 500);
 
 function d1() {
 	ph.innerHTML = photos;
-	setTimeout(d2, 2*S);
+	setTimeout(d2, 500);
 }
 
 function d2() {
 	vd.innerHTML = videos;
-	setTimeout(d3, 2*S);
+	setTimeout(d3, 500);
 }
 
 function d3() {
 	cc.innerHTML = credit_cards;
-	setTimeout(d4, 2*S);
+	setTimeout(d4, 500);
 }
 
 function d4() {
 	ap.innerHTML = apps;
-	setTimeout(d5, 2*S);
+	setTimeout(d5, 500);
 }
 
 function d5() {
@@ -47,6 +47,8 @@ function d5() {
 
 function showMessage()
 {
-	console.log("Alert!");
-	alert("You've been hacked - لقد تم اختراقك - Вас взломли");
+	
+	alert(`البيانات:
+الاسم: أحمد خالد الغامدي
+رقم الجوال: 0500000000`);
 }
