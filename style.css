@@ -22,5 +22,5 @@ p {
 .progress-bar {
 	background-color: green !important;
 	animation-name: completion;
-	animation-duration: 10s;
+	animation-duration: 3s;
 }
