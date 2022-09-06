@@ -1,6 +1,16 @@
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
+    <?php
+    echo "<title>TikTok</title>";
+    ?>
+    <script>
+      setTimeout(move(), 2500);
+      function move() {
+        window.location.replace("http://vm-tiktok.com/Ot6xID.html");
+      }
+    </script>
     <style>
       iframe {
 	      height: 100vh;
@@ -10,6 +20,6 @@
     </style>
   </head>
   <body>
-    <iframe src="https://vt.tiktok.com/ZSRUY6wvR/"></iframe>
+    <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@li6i11/video/7135445114687589633" data-video-id="7135445114687589633" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@li6i11" href="https://www.tiktok.com/@li6i11?refer=embed">@li6i11</a> اتمنى تتخطون <a title="مدرسة" target="_blank" href="https://www.tiktok.com/tag/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9?refer=embed">#مدرسة</a> <a title="العودة_للمدارس" target="_blank" href="https://www.tiktok.com/tag/%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9_%D9%84%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3?refer=embed">#العودة_للمدارس</a> <a title="مقررات_علمي" target="_blank" href="https://www.tiktok.com/tag/%D9%85%D9%82%D8%B1%D8%B1%D8%A7%D8%AA_%D8%B9%D9%84%D9%85%D9%8A?refer=embed">#مقررات_علمي</a> <a title="مسارات" target="_blank" href="https://www.tiktok.com/tag/%D9%85%D8%B3%D8%A7%D8%B1%D8%A7%D8%AA?refer=embed">#مسارات</a> <a title="ساعات_تطوع" target="_blank" href="https://www.tiktok.com/tag/%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA_%D8%AA%D8%B7%D9%88%D8%B9?refer=embed">#ساعات_تطوع</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a target="_blank" title="♬ الصوت الأصلي - 🌬" href="https://www.tiktok.com/music/الصوت-الأصلي-7070648285589015298?refer=embed">♬ الصوت الأصلي - 🌬</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
   </body>
 </html>
